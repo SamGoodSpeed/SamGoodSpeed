@@ -1,6 +1,6 @@
-```
+```yaml
 # Name
-  - Kim Vladimir
+name: Kim Vladimir
 # Location
 located_in: Busan, South Korea
 
