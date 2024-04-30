@@ -37,8 +37,9 @@ hobbies: ["Gaming", "Cinema", "Motorcycles", "Hiking", "Dogs", "Hackathon"]
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<div align="left">
-  <h4>Languages</h4>
+<div align="left" >
+  <div class="skills">
+      <h4>Languages</h4>
   <div style="display: flex">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" />
@@ -73,7 +74,9 @@ hobbies: ["Gaming", "Cinema", "Motorcycles", "Hiking", "Dogs", "Hackathon"]
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
    </div>
-   <h4>Stats</h4>
+  </div>
+   <div class="stats">
+       <h4>Stats</h4>
    <div align=left>
        <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
        
@@ -81,6 +84,7 @@ hobbies: ["Gaming", "Cinema", "Motorcycles", "Hiking", "Dogs", "Hackathon"]
    </br>
    <div  align=left>
        <img width=390 src="https://github-readme-stats.vercel.app/api?username=SamGoodSpeed&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+   </div>
    </div>
 </div>
 
