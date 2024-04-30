@@ -37,7 +37,7 @@ hobbies: ["Gaming", "Cinema", "Motorcycles", "Hiking", "Dogs", "Hackathon"]
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
+<div align="left">
   <h4>Languages</h4>
   <div style="display: flex">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" />
@@ -82,6 +82,6 @@ hobbies: ["Gaming", "Cinema", "Motorcycles", "Hiking", "Dogs", "Hackathon"]
    <div  align=left>
        <img width=390 src="https://github-readme-stats.vercel.app/api?username=SamGoodSpeed&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
    </div>
-</p>
+</div>
 
 
