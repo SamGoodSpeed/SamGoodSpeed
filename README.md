@@ -1,3 +1,4 @@
+
 ## 👨🏻‍💻 A Little Bit About Me ‍
 
 ```yaml
@@ -11,7 +12,7 @@ current_job: "Front-End Developer"
 education:
   [
     "Self-Taught Developer and Designer",
-    "Bachelor's Degree from RosNoU"
+    "Bachelor's Degree from RosNoU"https://github.com/SamGoodSpeed/SamGoodSpeed/blob/main/README.md
   ]
 # Company
 company: "IOTPlex"
