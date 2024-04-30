@@ -1,5 +1,6 @@
-Hi 👋, I'm Vladimir I leverage softskills with tech
 ```
+# Name
+  - Kim Vladimir
 # Location
 located_in: Busan, South Korea
 
@@ -9,7 +10,7 @@ current_job: Front-End Developer
 # Education
 education:
   - Self-Taught Developer and Designer
-  - Bachelor's Degree from RosNoU (or specify the field of study)
+  - Bachelor's Degree from RosNoU
 
 # Company
 company: IOTPlex
@@ -40,5 +41,6 @@ hobbies:
   - Motorcycles
   - Hiking
   - Dogs
+  - Hackathon
 
 ```
