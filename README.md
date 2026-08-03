@@ -28,12 +28,6 @@ fields_of_interest:
     "UI/UX Design",
     "Cybersecurity"
   ]
-# Currently Learning
-currently_learning: ["Docker", "TCM Security", "React Native"]
-# Goals
-2024_goals: ["Create 5+ projects", "Learn more about Cybersecurity"]
-# Hobbies
-hobbies: ["Gaming", "Cinema", "Motorcycles", "Hiking", "Dogs", "Hackathon"]
 ```
 ###### Sometimes I do codewards challenges with my friends:
 [![CodeWars Badges](https://www.codewars.com/users/PoPoSam/badges/small)](https://www.codewars.com/users/PoPoSam)
