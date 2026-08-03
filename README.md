@@ -8,7 +8,7 @@
 # Name
 name: "Kim Vladimir"
 # Location
-located_in: ["Busan", "South Korea"]
+located_in: ["Seoul", "South Korea"]
 # Job Title
 current_job: "Front-End Developer" 
 # Education
@@ -18,7 +18,7 @@ education:
     "Bachelor's Degree from RosNoU"https://github.com/SamGoodSpeed/SamGoodSpeed/blob/main/README.md
   ]
 # Company
-company: "IOTPlex"
+company: "FPT Software Korea"
 # Fields of Interest
 fields_of_interest:
   [
